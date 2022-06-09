@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "title": "Book of Psalms with flower",
+            "link": "i/shop/magazine.jpg",
+            "price": "20.00",
+            "sale": "10",
+            "tag": [
+                "book",
+                "decor",
+                "magazine",
+                "publish",
+                "vintage"
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Cell Phone Wood stand",
+            "link": "i/shop/stand.jpg",
+            "price": "60.00",
+            "sale": "35",
+            "tag": [
+                "decor",
+                "natural",
+                "vintage",
+                "wood"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Chanel Perfume",
+            "link": "i/shop/perfume.jpg",
+            "price": "120.00",
+            "sale": "20",
+            "tag": [
+                "fashion",
+                "vintage"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Colored Ceramic Vase",
+            "link": "i/shop/vase.jpg",
+            "price": "50.00",
+            "sale": "0",
+            "tag": [
+                "decor",
+                "natural",
+                "vintage"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Handmade soap stack",
+            "link": "i/shop/soap.jpg",
+            "price": "26.00",
+            "sale": "40",
+            "tag": [
+                "oil",
+                "vegan",
+                "vintage"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Outdoor Bag",
+            "link": "i/shop/bag.jpg",
+            "price": "150.00",
+            "sale": "20",
+            "tag": [
+                "outdoor",
+                "vintage"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Vegan Gummies",
+            "link": "i/shop/gummies.jpg",
+            "price": "24.00",
+            "sale": "15",
+            "tag": [
+                "health",
+                "natural",
+                "vegan"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Vintage Watch",
+            "link": "i/shop/watch.jpg",
+            "price": "60.00",
+            "sale": "0",
+            "tag": [
+                "fashion",
+                "vintage"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Wildflower Natural Deodorant",
+            "link": "i/shop/deodorant.jpg",
+            "price": "22.00",
+            "sale": "10",
+            "tag": [
+                "health",
+                "natural",
+                "vegan"
+            ]
+        }
+    ]
+}

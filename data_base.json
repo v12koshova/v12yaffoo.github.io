@@ -1,0 +1,171 @@
+{
+    "articles": [
+    {
+        "id": 0, 
+        "title": "Since You Need A Green Light",
+        "link": "i/girlwithplant.jpg",
+        "tag": ["LIFESTYLE"],
+        "time": "SOPHIE BLANCHE",
+        "date": "OCTOBER 18, 2020",
+        "increased": {
+            "text": "One will have several options to learn about the Icelandic culture and geography, witness nature, venture into thrilling parts such as volcanic craters or perhaps ice-formed caves and altogether obtain spiritual bliss amidst the breath-taking falls."
+        },
+        "video": {
+            "videoSrc": "video/post.mp4",
+            "type": "video/mp4"
+        },
+        "view": "2"
+    },
+    {
+        "id": 1,
+        "title": "Exploring the Columbia River Gorge",
+        "link": "i/girlwithplant2.jpg",
+        "tag": ["LIFESTYLE"],
+        "time": "SOPHIE BLANCHE",
+        "date": "AUGUST 20, 2020",
+        "slider": "true",
+        "view": "24",
+        "popular": "true"
+    },
+    {
+        "id": 2,
+        "title": "How To Remember Your Dreams",
+        "link": "i/girlinplants.jpg",
+        "tag": ["interview"],
+        "time": "OCTOBER 14, 2020",
+        "date": "MARCH 27, 2020",
+        "view": "4"
+    },
+    {
+        "id": 3,
+        "title": "Luxurious Travel Guide for Iceland",
+        "link": "i/people.jpg",
+        "tag": ["WILD NATURE"],
+        "time": "3 MINS READ",
+        "date": "SEPTEMBER 5, 2020",
+        "view": "5"
+    },
+    {
+        "id": 4,
+        "title": "Red squirrels relocated to Highlands woodland",
+        "link": "i/plants.jpg",
+        "tag": ["WILD NATURE"],
+        "time": "3 MINS READ",
+        "date": "MARCH 31, 2020",
+        "view": "6"
+    },
+    {
+        "id": 5,
+        "title": "50 Amazing Examples of Portrait Photography",
+        "link": "i/book.jpg",
+        "tag": ["FOOD & HEALTH", "LIFESTYLE"],
+        "time": "3 MINS READ",
+        "date": "MARCH 30, 2020",
+        "view": "2"
+    },
+    {
+        "id": 6,
+        "title": "Fabulous Foodie Fun in the Glorious Region of Tuscany",
+        "link": "i/bread.jpg",
+        "tag": ["FOOD & HEALTH"],
+        "time": "3 MINS READ",
+        "date": "MARCH 29, 2020",
+        "view": "5"
+    },
+    {
+        "id": 7,
+        "title": "Life is an Adventure if You Choose to Make it One",
+        "link": "i/doublegirl.jpg",
+        "tag": ["INTERVIEW"],
+        "time": "3 MINS READ",
+        "date": "MARCH 29, 2020",
+        "view": "19",
+        "popular": "true"
+    },
+    {
+        "id": 8,
+        "title": "How to Give Your Old Car a New Look",
+        "link": "i/car.jpg",
+        "tag": ["LIFESTYLE"],
+        "time": "3 MINS READ",
+        "date": " MARCH 27, 2020",
+        "view": "3"
+    },
+    {
+        "id": 9,
+        "title": "How To Plan Your Travel Systematically",
+        "link": "i/girlinhat.jpg",
+        "tag": ["LIFESTYLE"],
+        "time": "3 MINS READ",
+        "date": "MARCH 26, 2020",
+        "view": "7"
+    },
+    {
+        "id": 10,
+        "title": "Our Favorite Things To Do In Big Sur California",
+        "link": "i/table.jpg",
+        "tag": ["INTERIOR"],
+        "time": "3 MINS READ",
+        "date": "MARCH 27, 2020",
+        "slider": "true",
+        "view": "9"
+    },
+    {
+        "id": 11,
+        "title": "Everything That Is Exotic In New Zealand",
+        "link": "i/man.jpg",
+        "tag": ["TRAVEL", "WILD NATURE"],
+        "time": "3 MINS READ",
+        "date": "MARCH 26, 2020",
+        "view": "11"
+    },
+    {
+        "id": 12,
+        "title": "Vegetarian Diet – The Promise to Good Health",
+        "link": "i/fruit.jpg",
+        "tag": ["FOOD & HEALTH"],
+        "time": "4 MINS READ",
+        "date": "MARCH 22, 2020",
+        "view": "14"
+    },
+    {
+        "id": 13,
+        "title": "Planning a Vacation Made lvpier With Travel Loans",
+        "link": "i/manonskateboard.jpg",
+        "tag": ["LIFESTYLE"],
+        "time": "3 MINS READ",
+        "date": "MARCH 22, 2020",
+        "view": "71",
+        "popular": "true"
+    },
+    {
+        "id": 14,
+        "title": "The Importance Of Planning Your Trip In Advance",
+        "link": "i/homeplants.jpg",
+        "tag": ["INTERIOR"],
+        "time": "3 MINS READ",
+        "date": "MARCH 22, 2020",
+        "view": "15"
+    },
+    {
+        "id": 15,
+        "title": "6 Tips to Help You Choose a Good Motel",
+        "link": "i/closes.jpg",
+        "tag": ["TRAVEL"],
+        "time": "3 MINS READ",
+        "date": "MARCH 21, 2020",
+        "view": "31"
+    },
+    
+    {
+        "id": 16,
+        "title": "Furniture Ideas for Small Space",
+        "link": "i/house.jpg",
+        "tag": ["LIFESTYLE"],
+        "time": "SOPHIE BLANCHE",
+        "date": "AUGUST 30, 2020",
+        "slider": "true",
+        "view": "15"
+    }
+]
+}
